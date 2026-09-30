@@ -1,0 +1,31 @@
+{
+  "packs": {
+    "dog": {
+      "title": "Пёсик",
+      "version": 1,
+      "file": "dog.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/dog.zip",
+      "size": 2797966,
+      "sha256": "3340a542475ed971f0eae0f23c9a180d4328240d0f29782f3f82494ff1925c8d",
+      "count": 68
+    },
+    "jinx": {
+      "title": "Джинкс",
+      "version": 1,
+      "file": "jinx.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/jinx.zip",
+      "size": 3433586,
+      "sha256": "8e97e49970a94b8a73e70779981b1f8a945b9a1f831a21a7c75c6dea36d62002",
+      "count": 68
+    },
+    "clockmaker": {
+      "title": "Часовщик",
+      "version": 1,
+      "file": "clockmaker.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/clockmaker.zip",
+      "size": 3117468,
+      "sha256": "3c9d47dfab9733d58b170b92f2afaee23cb286178051c6d43e7a8af20dd4baa3",
+      "count": 68
+    }
+  }
+}
