@@ -26,6 +26,60 @@
       "size": 3117468,
       "sha256": "3c9d47dfab9733d58b170b92f2afaee23cb286178051c6d43e7a8af20dd4baa3",
       "count": 68
+    },
+    "mouse": {
+      "title": "Мышка",
+      "version": 1,
+      "file": "mouse.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/mouse.zip",
+      "size": 4552189,
+      "sha256": "b6e4712078adb5070f22d9fde7b4c38c9c7ee897744bb368b58b141ef719e26f",
+      "count": 68
+    },
+    "cat": {
+      "title": "Кот-красавчик",
+      "version": 1,
+      "file": "cat.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/cat.zip",
+      "size": 4484532,
+      "sha256": "635a0c68d6e728d174fcdac0c81eda5d0140c2213c1bb1e2d3275650784cd819",
+      "count": 68
+    },
+    "dragon": {
+      "title": "Дракончик",
+      "version": 1,
+      "file": "dragon.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/dragon.zip",
+      "size": 5032750,
+      "sha256": "70eda8a915cbecd8efd6b23f2428aed94e960efeda408bdc5ca10131524e221e",
+      "count": 68
+    },
+    "kangaroo": {
+      "title": "Кенгуру",
+      "version": 1,
+      "file": "kangaroo.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/kangaroo.zip",
+      "size": 5480735,
+      "sha256": "4627c308eee3b218876c4dbd51aab879a2075263970ea91220f64ff2a1581281",
+      "count": 68
+    },
+    "raccoon": {
+      "title": "Енотик",
+      "version": 1,
+      "file": "raccoon.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/raccoon.zip",
+      "size": 3448775,
+      "sha256": "9ecea7be89c492cf5c4842e6b51f34c8bf75c7505508901b19da1310be5e5ffa",
+      "count": 68
+    },
+    "toucan": {
+      "title": "Тукан",
+      "version": 1,
+      "file": "toucan.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/toucan.zip",
+      "size": 6114220,
+      "sha256": "1b76737cfa36aaa2b9854eac32d0a2a4e96918104957fcc94ac1505ccd6dbe8e",
+      "count": 68
     }
   }
 }
