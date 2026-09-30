@@ -2,93 +2,93 @@
  "packs": {
   "dog": {
    "title": "Пёсик",
-   "version": 3,
+   "version": 4,
    "file": "dog.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/dog.zip",
-   "size": 2848058,
-   "sha256": "96f7a1cbbe142242bda35d7d4cd48db3f3e5fa3a2622d37c7ab0ae2dd164aea0",
-   "count": 70
+   "size": 2868708,
+   "sha256": "cd2891ee5f773171a3e0d1f3218a6a38f20d8c95a4ca5d871836d78d8c0ef71c",
+   "count": 71
   },
   "jinx": {
    "title": "Джинкс",
-   "version": 3,
+   "version": 4,
    "file": "jinx.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/jinx.zip",
-   "size": 3503468,
-   "sha256": "65c27db91f3343f0ae73cff024ff6529b5055e0a25ef121b1e11a4c1959d8971",
-   "count": 70
+   "size": 3534718,
+   "sha256": "4c0c56a0d3f2ef92c09d75551bc5489e6e2339caa7e3925044912d31ffce3fa3",
+   "count": 71
   },
   "clockmaker": {
    "title": "Часовщик",
-   "version": 5,
+   "version": 6,
    "file": "clockmaker.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/clockmaker.zip",
-   "size": 3323300,
-   "sha256": "c31a4cf976833237f84f7a8868a97f8eed981de24c20bb28a59d4e4ed5880093",
+   "size": 3323317,
+   "sha256": "b3aab8e6cadf16a442aac48c667698eeaf9e371a3b0bc1e17ee1b4b48c20ca26",
    "count": 70
   },
   "mouse": {
    "title": "Мышка",
-   "version": 4,
+   "version": 5,
    "file": "mouse.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/mouse.zip",
-   "size": 3597495,
-   "sha256": "25c09aa67a6d1c5ba9c9bb6b355f9e0c9cf1d465a639c24c6a254dcf42ebd5d1",
-   "count": 70
+   "size": 3623981,
+   "sha256": "5fed98313f235ed2bf22e703b9af4c3974af28df541c032493b8fc38ff39d045",
+   "count": 71
   },
   "cat": {
    "title": "Кот-красавчик",
-   "version": 4,
+   "version": 5,
    "file": "cat.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/cat.zip",
-   "size": 4674444,
-   "sha256": "442dca7bb0c5702a3286a0871d737ba6062bbe5c4342aac3aed70353d13b17c8",
-   "count": 70
+   "size": 4703668,
+   "sha256": "0b665979e233e53347e2a7b759da69e4b0d7af03b8cc73f1176468053db4f412",
+   "count": 71
   },
   "dragon": {
    "title": "Дракончик",
-   "version": 4,
+   "version": 5,
    "file": "dragon.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/dragon.zip",
-   "size": 5214695,
-   "sha256": "29201eced988bad3a5e91be0888da4ed83eeace61fa7b68b5ae8e0cf937f7b06",
-   "count": 70
+   "size": 5251259,
+   "sha256": "5b09137d83509f69e1b41fa13ea71b49c85b6acd6ea912653e0068d89d87d71b",
+   "count": 71
   },
   "kangaroo": {
    "title": "Кенгуру",
-   "version": 4,
+   "version": 5,
    "file": "kangaroo.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/kangaroo.zip",
-   "size": 4823376,
-   "sha256": "a3216f960cee8dd547177bf05101d7a668d9b29643cc244cbcb7faa1d2f9b1f0",
-   "count": 70
+   "size": 4849107,
+   "sha256": "360244d3a38b5a30188834943448206335a7b32ada9eb67bab7dd98dc8a32db4",
+   "count": 71
   },
   "raccoon": {
    "title": "Енотик",
-   "version": 4,
+   "version": 5,
    "file": "raccoon.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/raccoon.zip",
-   "size": 3529688,
-   "sha256": "614ce05b7e27ce20040fa2b074909464ddcbd222b3c499e8ea700b1b9ef52447",
-   "count": 70
+   "size": 3560406,
+   "sha256": "59e96d0793b58428009e7f2901bacf0517fc1de377e2b14d3b6c2f514166f9ac",
+   "count": 71
   },
   "toucan": {
    "title": "Тукан",
-   "version": 4,
+   "version": 5,
    "file": "toucan.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/toucan.zip",
-   "size": 6298589,
-   "sha256": "95b3106abf50b87ed4945a4b61d50a0edd1f09535782f471da5aac9504d96298",
-   "count": 70
+   "size": 6331602,
+   "sha256": "f84cb4b3ebcd5d4124d16f94ecf487f2fc5df0d7317f17e24c3d685500c4b0ba",
+   "count": 71
   },
   "robot": {
    "title": "Робот",
-   "version": 3,
+   "version": 4,
    "file": "robot.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/robot.zip",
-   "size": 4331399,
-   "sha256": "4848c47b1cf9a3b0495d5f335574d28e652d5eb12d958578fedd748de695fc82",
-   "count": 70
+   "size": 4360833,
+   "sha256": "91baba8fb34ff8fd97174cdd8d46627db8c9d7f994058f76283706aabfd6ce4e",
+   "count": 71
   }
  }
 }
