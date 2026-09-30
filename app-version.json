@@ -1,6 +1,6 @@
 {
- "versionCode": 33,
- "versionName": "1.32",
- "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.32/zhuzha-weather-widget-1.32.apk",
- "changelog": "Пилот мини-анимаций: Жужа гуляет, Пёсик в бассейне, Робот пьёт смазку, Дракончик на санках, Джинкс проскакивает в дверь (10+ тапов или иногда сами). Фикс: стрелки часовщика больше не застывают после обновления/перезагрузки"
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.33/zhuzha-weather-widget-1.33.apk",
+  "changelog": "Стрелки часовщика больше не пропадают во время эмоций"
 }
