@@ -47,12 +47,12 @@
     },
     "dragon": {
       "title": "Дракончик",
-      "version": 6,
+      "version": 7,
       "file": "dragon.zip",
       "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/dragon.zip",
-      "size": 5685479,
-      "sha256": "4bf351727b8fe31cd8dc7891e365bbd3935ab64556b912bc212e7999388591c0",
-      "count": 77
+      "size": 6070644,
+      "sha256": "5bd7f1dedc4ad96d929e6aa358529876d85b54e5052b8e4ab99561fbf498a7be",
+      "count": 83
     },
     "kangaroo": {
       "title": "Кенгуру",
@@ -74,12 +74,12 @@
     },
     "toucan": {
       "title": "Тукан",
-      "version": 5,
+      "version": 6,
       "file": "toucan.zip",
       "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/toucan.zip",
-      "size": 6331602,
-      "sha256": "f84cb4b3ebcd5d4124d16f94ecf487f2fc5df0d7317f17e24c3d685500c4b0ba",
-      "count": 71
+      "size": 6947607,
+      "sha256": "64832eb3ee993a37e7830c0b2af21cfd75503453319e664ab6aae06ec9a9a91e",
+      "count": 77
     },
     "robot": {
       "title": "Робот",
