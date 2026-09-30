@@ -20,11 +20,11 @@
     },
     "clockmaker": {
       "title": "Часовщик",
-      "version": 1,
+      "version": 2,
       "file": "clockmaker.zip",
       "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/clockmaker.zip",
-      "size": 3117468,
-      "sha256": "3c9d47dfab9733d58b170b92f2afaee23cb286178051c6d43e7a8af20dd4baa3",
+      "size": 3254730,
+      "sha256": "fb0e47adf9f31066ed76b5071d995dfe5f28e6d5e66db3eb48a4f9228d009347",
       "count": 68
     },
     "mouse": {
