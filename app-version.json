@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
-  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.33/zhuzha-weather-widget-1.33.apk",
-  "changelog": "Стрелки часовщика больше не пропадают во время эмоций"
+  "versionCode": 35,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.34/zhuzha-weather-widget-1.34.apk",
+  "changelog": "Возврат в штатный режим после эмоций: точный таймер"
 }
