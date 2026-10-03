@@ -89,6 +89,33 @@
       "size": 4646531,
       "sha256": "005ef0a5d408100870a34a1124fc940769c5346dee978bf4916370772ab14c1d",
       "count": 76
+    },
+    "prism": {
+      "title": "Призма",
+      "version": 1,
+      "file": "prism.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/prism.zip",
+      "size": 4494099,
+      "sha256": "f23f88ca6ef33c9d2046301f84e3577533dd64ba1ad65364facda596fe2b902f",
+      "count": 68
+    },
+    "hedgehog": {
+      "title": "Ёжик",
+      "version": 1,
+      "file": "hedgehog.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/hedgehog.zip",
+      "size": 4256503,
+      "sha256": "ae885538abe8b5e053c56751327f5868796524a47da51ff0d9944975c6e5183d",
+      "count": 62
+    },
+    "fairy": {
+      "title": "Фея",
+      "version": 1,
+      "file": "fairy.zip",
+      "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/fairy.zip",
+      "size": 4701375,
+      "sha256": "bf77549175fc1971ef176096f446d6586519d899103282bae938211b70138940",
+      "count": 68
     }
   }
 }
