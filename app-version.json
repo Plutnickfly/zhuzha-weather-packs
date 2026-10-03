@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.35",
-  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.35/zhuzha-weather-widget-1.35.apk",
-  "changelog": "Пилот плавных анимаций: дождь рисуется кодом — 8 фаз падения капель"
+  "versionCode": 37,
+  "versionName": "1.36",
+  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.36/zhuzha-weather-widget-1.36.apk",
+  "changelog": "Все погодные эффекты рисуются кодом: снег, град, гроза с молнией, туман, ветер, морозный пар, жара, солнце — плавно, без рывков"
 }
