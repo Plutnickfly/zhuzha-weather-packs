@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.36/zhuzha-weather-widget-1.36.apk",
-  "changelog": "Все погодные эффекты рисуются кодом: снег, град, гроза с молнией, туман, ветер, морозный пар, жара, солнце — плавно, без рывков"
+  "versionCode": 38,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.37/zhuzha-weather-widget-1.37.apk",
+  "changelog": "Мультяшный дождь и живые мордашки: моргание и улыбки персонажей"
 }
