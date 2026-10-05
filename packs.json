@@ -29,12 +29,12 @@
   },
   "mouse": {
    "title": "Мышка",
-   "version": 6,
+   "version": 7,
    "file": "mouse.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/mouse.zip",
-   "size": 3897214,
-   "sha256": "270a5718a124cf099ccb6b81ecf36de75da713615c4c0968e78b732399f9a2e0",
-   "count": 74
+   "size": 4210471,
+   "sha256": "6968e744cb17188c1a3cc0d73ddb1ab993ad3014ab0a0b1c6b308283a1e45472",
+   "count": 80
   },
   "cat": {
    "title": "Кот-красавчик",
@@ -65,12 +65,12 @@
   },
   "raccoon": {
    "title": "Енотик",
-   "version": 6,
+   "version": 7,
    "file": "raccoon.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/raccoon.zip",
-   "size": 3716445,
-   "sha256": "b474f709c54958542d55b99c08e9224cbfe0d166aff3996d99a692ab19123490",
-   "count": 74
+   "size": 4512415,
+   "sha256": "f1fff9cb3833b957d88c54d605d90c346727e65f03fbc5c8bd5f2c50a5d80cb7",
+   "count": 92
   },
   "toucan": {
    "title": "Тукан",
