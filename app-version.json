@@ -1,6 +1,1 @@
-{
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.37/zhuzha-weather-widget-1.37.apk",
-  "changelog": "Мультяшный дождь и живые мордашки: моргание и улыбки персонажей"
-}
+{"apkUrl":"https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/app-1.38/zhuzha-weather-widget-1.38.apk","changelog":"Погода переживает офлайн: при потере сети виджет показывает последние загруженные данные вместо «Нет данных»; моргание и анимации продолжают работать без сети","versionCode":39,"versionName":"1.38"}
