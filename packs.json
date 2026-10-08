@@ -33,7 +33,7 @@
    "file": "mouse.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/mouse.zip",
    "size": 8551302,
-   "sha256": "cbafd18da836f4927a3389cab7116e10da80d80bbfd9b51d9ccc793ad45a40d5",
+   "sha256": "26384e657d085bc318fdba6ab33513438bf198887f732b1eb5b478ab1b9fcb55",
    "count": 80
   },
   "cat": {
@@ -68,8 +68,8 @@
    "version": 7,
    "file": "raccoon.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/raccoon.zip",
-   "size": 4512415,
-   "sha256": "f1fff9cb3833b957d88c54d605d90c346727e65f03fbc5c8bd5f2c50a5d80cb7",
+   "size": 4512397,
+   "sha256": "a52febcd8662db3eb40a19d758fd56d400909d2fe9caf199de9d213d69d64644",
    "count": 92
   },
   "toucan": {
