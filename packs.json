@@ -2,11 +2,11 @@
  "packs": {
   "dog": {
    "title": "Пёсик",
-   "version": 5,
+   "version": 6,
    "file": "dog.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/dog.zip",
-   "size": 3158889,
-   "sha256": "58f290d769450fa97377af354479222d3b008c2eb8f9fdf6af7cb8ecebeed4ab",
+   "size": 5492281,
+   "sha256": "e01831db8c58c60978e80efa01ef210065008d41697cc087581889030787bd53",
    "count": 77
   },
   "jinx": {
@@ -29,11 +29,11 @@
   },
   "mouse": {
    "title": "Мышка",
-   "version": 7,
+   "version": 8,
    "file": "mouse.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/mouse.zip",
-   "size": 4210471,
-   "sha256": "6968e744cb17188c1a3cc0d73ddb1ab993ad3014ab0a0b1c6b308283a1e45472",
+   "size": 8551302,
+   "sha256": "cbafd18da836f4927a3389cab7116e10da80d80bbfd9b51d9ccc793ad45a40d5",
    "count": 80
   },
   "cat": {
@@ -101,12 +101,12 @@
   },
   "hedgehog": {
    "title": "Ёжик",
-   "version": 1,
+   "version": 2,
    "file": "hedgehog.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/hedgehog.zip",
-   "size": 4256503,
-   "sha256": "ae885538abe8b5e053c56751327f5868796524a47da51ff0d9944975c6e5183d",
-   "count": 62
+   "size": 6015944,
+   "sha256": "a74f4befc88ddd46325dedf8d296f7384398bb27d2f73111315a1009267a9d26",
+   "count": 64
   },
   "fairy": {
    "title": "Фея",
