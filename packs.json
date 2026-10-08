@@ -101,11 +101,11 @@
   },
   "hedgehog": {
    "title": "Ёжик",
-   "version": 4,
+   "version": 5,
    "file": "hedgehog.zip",
    "url": "https://github.com/Plutnickfly/zhuzha-weather-packs/releases/download/v1/hedgehog.zip",
-   "size": 6511177,
-   "sha256": "14371096ef5d1bf67d87a5f5a5c9f82ef38e468d73b2da78120d4b07d90ed3c8",
+   "size": 5122898,
+   "sha256": "bcc1728b31097c6de54b31fcdaac22879f35e4a2ccf45bdb4aa12b2af7abe744",
    "count": 65
   },
   "fairy": {
